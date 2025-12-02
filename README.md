@@ -36,4 +36,4 @@ In the video folder there are three of the videos used during the experiments.
 	- 20241023_174413659_5ul_0glic-x20RTL.mov
 	- 20241022_172649156_5ul_20glic-x20RTL.mov
 	
-It is possible to obtain example videos of some experiments by writing to gabriele.surano@cnr.it or hpc.nanotec@cnr.it
+It is possible to obtain example videos of the aforementioned experiments by writing to gabriele.surano@cnr.it or hpc.nanotec@cnr.it
