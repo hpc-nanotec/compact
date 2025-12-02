@@ -28,10 +28,12 @@ This file generates:
 
 ## Folders
 
+In the folder optical_data there is the diagram with the specifications of the microscope used: Dino‑Lite.
+
 In the video folder there are three of the videos used during the experiments.
 
 	- 20251015_154007768-15fps-x20RTL.mov
 	- 20241023_174413659_5ul_0glic-x20RTL.mov
 	- 20241022_172649156_5ul_20glic-x20RTL.mov
 	
-In the folder optical_data there is the diagram with the specifications of the microscope used: Dino‑Lite.
+It is possible to obtain example videos of some experiments by writing to gabriele.surano@cnr.it or hpc.nanotec@cnr.it
